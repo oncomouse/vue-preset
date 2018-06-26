@@ -10,5 +10,6 @@
     "@oncomouse/code-splitting": {}
   },
   "router": true,
+  "vuex": true,
   "cssPreprocessor": "sass"
 }
