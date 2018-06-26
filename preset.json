@@ -1,19 +1,13 @@
 {
-  "useTaobaoRegistry": false,
-  "packageManager": "npm",
-  "presets": {
-    "preset-oncomouse": {
-      "useConfigFiles": false,
-      "plugins": {
-        "@vue/cli-plugin-babel": {},
-        "@vue/cli-plugin-eslint": {
-          "config": "airbnb",
-          "lintOn": []
-        },
-        "@vue/cli-plugin-unit-mocha": {}
-      },
-      "router": true,
-      "cssPreprocessor": "sass"
-    }
-  }
+  "useConfigFiles": false,
+  "plugins": {
+    "@vue/cli-plugin-babel": {},
+    "@vue/cli-plugin-eslint": {
+      "config": "airbnb",
+      "lintOn": []
+    },
+    "@vue/cli-plugin-unit-mocha": {}
+  },
+  "router": true,
+  "cssPreprocessor": "sass"
 }
