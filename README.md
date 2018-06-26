@@ -3,5 +3,5 @@
 Usage:
 
 ~~~bash
-vue create --preset oncomouse/vue-preset
+vue create --preset oncomouse/vue-preset <project-file>
 ~~~
