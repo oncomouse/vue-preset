@@ -7,8 +7,9 @@
       "lintOn": []
     },
     "@vue/cli-plugin-unit-mocha": {},
-    "@oncomouse/code-splitting": {},
-    "@oncomouse/vue-cli-plugin-advanced-vuex-store": {}
+    "@oncomouse/vue-cli-plugin-code-splitting": {},
+    "@oncomouse/vue-cli-plugin-advanced-vuex-store": {},
+    "@oncomouse/vue-cli-plugin-vue-types": {}
   },
   "router": true,
   "vuex": true,
