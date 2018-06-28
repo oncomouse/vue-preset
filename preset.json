@@ -12,6 +12,6 @@
     "@oncomouse/vue-cli-plugin-vue-types": {}
   },
   "router": true,
-  "vuex": true,
+  "vuex": false,
   "cssPreprocessor": "sass"
 }
