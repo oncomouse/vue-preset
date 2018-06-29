@@ -8,7 +8,8 @@
     "@vue/cli-plugin-unit-mocha": {},
     "@oncomouse/vue-cli-plugin-code-splitting": {},
     "@oncomouse/vue-cli-plugin-advanced-vuex-store": {},
-    "@oncomouse/vue-cli-plugin-vue-types": {}
+    "@oncomouse/vue-cli-plugin-vue-types": {},
+    "oncomouse/vue-cli-plugin-ramda": {},
   },
   "router": true,
   "vuex": false,
